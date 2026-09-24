@@ -15,6 +15,8 @@ CORS(app)
 
 BASE_URL = "https://tabuamare.api.br/api/v2"
 
+# chave de api - necessita de conta no Tabua de Maré
+# https://tabuamare.api.br/
 API_KEY = os.getenv("api_key")
 
 print("API_KEY carregada:", bool(API_KEY))
