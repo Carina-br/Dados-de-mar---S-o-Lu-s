@@ -190,4 +190,5 @@ if __name__ == "__main__":
 # portos
 # http://localhost:5000/api/mare/portos/ma
 
+# Dados de maré da data 24/09/2026 (data do teste feito)
 # http://localhost:5000/api/mare/sao-luis?month=9&days=24
